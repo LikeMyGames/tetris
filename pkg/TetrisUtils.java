@@ -19,4 +19,8 @@ public class TetrisUtils {
         }
 		return arr;
 	}
+
+	public static void step(String[][] arr){
+		
+	}
 }
